@@ -44,7 +44,7 @@ Beginning of the quiz:
 Answer: cane
 Correct!
 
-3) Translate: gato
+2) Translate: gato
 Answer: gatto
 Correct!
 
