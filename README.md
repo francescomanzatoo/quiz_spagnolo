@@ -1,5 +1,6 @@
 # quiz_Spagnolo
 🇪🇸 Spanish Vocab Trainer
+
 A terminal-based flashcard and quiz application to learn Spanish vocabulary, built in Python.
 Developed as a personal side project to support self-study of Spanish (answers are in italian), with a focus on clean object-oriented design and local data persistence. 
 
