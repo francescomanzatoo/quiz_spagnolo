@@ -1,0 +1,267 @@
+{
+    "animal": [
+        "animale"
+    ],
+    "mascota": [
+        "animale domestico"
+    ],
+    "animal salvaje": [
+        "animale selvatico",
+        "bestia"
+    ],
+    "pelo": [
+        "pelo",
+        "pelliccia"
+    ],
+    "ballena azul": [
+        "balenottera azzurra"
+    ],
+    "conejillo de Indias": [
+        "percellino d'India"
+    ],
+    "gato": [
+        "gatto"
+    ],
+    "perro": [
+        "cane"
+    ],
+    "pez": [
+        "pesce"
+    ],
+    "raton": [
+        "ratto"
+    ],
+    "jirafa": [
+        "giraffa"
+    ],
+    "hipopotamo": [
+        "ippopotamo"
+    ],
+    "perezoso": [
+        "bradipo"
+    ],
+    "pavo": [
+        "tacchino"
+    ],
+    "ciervo": [
+        "cervo"
+    ],
+    "zorro": [
+        "volpe"
+    ],
+    "mapache": [
+        "procione"
+    ],
+    "termita": [
+        "termite"
+    ],
+    "avispa": [
+        "vespa"
+    ],
+    "escarabajo": [
+        "scarabeo"
+    ],
+    "avispon": [
+        "calabrone"
+    ],
+    "conejo": [
+        "coniglio"
+    ],
+    "rata": [
+        "topo"
+    ],
+    "gallina": [
+        "gallina",
+        "pollo"
+    ],
+    "vaca": [
+        "vacca",
+        "mucca"
+    ],
+    "cerdo": [
+        "maiale"
+    ],
+    "oveja": [
+        "pecora"
+    ],
+    "cabra": [
+        "capra"
+    ],
+    "burro": [
+        "asino"
+    ],
+    "caballo": [
+        "cavallo"
+    ],
+    "elefante": [
+        "elefante"
+    ],
+    "camello": [
+        "cammello"
+    ],
+    "mosquito": [
+        "zanzara"
+    ],
+    "arana": [
+        "ragno"
+    ],
+    "hormiga": [
+        "formica"
+    ],
+    "zorrillo": [
+        "puzzola"
+    ],
+    "buho": [
+        "gufo"
+    ],
+    "liebre": [
+        "lepre"
+    ],
+    "lejon": [
+        "tasso"
+    ],
+    "leon": [
+        "leone"
+    ],
+    "rinoceronte": [
+        "rinoceronte"
+    ],
+    "guepardo": [
+        "ghepardo"
+    ],
+    "hiena": [
+        "iena"
+    ],
+    "ave": [
+        "uccello"
+    ],
+    "pato": [
+        "anatra"
+    ],
+    "ganso": [
+        "oca"
+    ],
+    "paloma": [
+        "piccione"
+    ],
+    "pinguino": [
+        "pinguino"
+    ],
+    "loro": [
+        "pappagallo"
+    ],
+    "lenchuza": [
+        "barbagianni"
+    ],
+    "aguila": [
+        "aquila"
+    ],
+    "delfin": [
+        "delfino"
+    ],
+    "pulpo": [
+        "polpo"
+    ],
+    "hamster": [
+        "criceto"
+    ],
+    "abeja": [
+        "ape"
+    ],
+    "mariposa": [
+        "farfalla"
+    ],
+    "polilla": [
+        "falena"
+    ],
+    "alce": [
+        "alce"
+    ],
+    "lince": [
+        "lince"
+    ],
+    "puercoespin": [
+        "porcospino",
+        "istrice"
+    ],
+    "jabali": [
+        "cinghiale"
+    ],
+    "gacela": [
+        "gazzella"
+    ],
+    "mono": [
+        "scimmia"
+    ],
+    "bufalo": [
+        "bufalo"
+    ],
+    "nu": [
+        "gnu"
+    ],
+    "medusa": [
+        "medusa"
+    ],
+    "estrella de mar": [
+        "stella di mare",
+        "stella marina"
+    ],
+    "tiburon": [
+        "squalo"
+    ],
+    "tortuga marina": [
+        "tartaruga marina",
+        "tartaruga di mare"
+    ],
+    "oso": [
+        "orso"
+    ],
+    "lobo": [
+        "lupo"
+    ],
+    "cocodrilo": [
+        "coccodrillo"
+    ],
+    "serpiente": [
+        "serpente"
+    ],
+    "canguro": [
+        "canguro"
+    ],
+    "rana": [
+        "rana"
+    ],
+    "ardilla": [
+        "scoiattolo"
+    ],
+    "cucaracha": [
+        "scarafaggio"
+    ],
+    "corzo": [
+        "capriolo"
+    ],
+    "mosca": [
+        "mosca"
+    ],
+    "vison": [
+        "visone"
+    ],
+    "saltamontes": [
+        "cavalletta"
+    ],
+    "mariquita": [
+        "coccinella"
+    ],
+    "escorpion": [
+        "scorpione"
+    ],
+    "chacal": [
+        "sciacallo"
+    ],
+    "mantis religiosa": [
+        "mantide religiosa"
+    ],
+    "pajaro carpintero": [
+        "picchio"
+    ]
+}

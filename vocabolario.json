@@ -1,0 +1,1425 @@
+{
+    "perro": [
+        "cane"
+    ],
+    "novia": [
+        "ragazza"
+    ],
+    "casa": [
+        "casa",
+        "abitazione"
+    ],
+    "novio": [
+        "ragazzo"
+    ],
+    "silla": [
+        "sedia"
+    ],
+    "proyector": [
+        "proiettore"
+    ],
+    "papelera": [
+        "cestino"
+    ],
+    "mochila": [
+        "zaino"
+    ],
+    "tableta": [
+        "tablet"
+    ],
+    "estuche": [
+        "astuccio"
+    ],
+    "mesa": [
+        "tavolo"
+    ],
+    "libro": [
+        "libro"
+    ],
+    "boligrafo": [
+        "penna"
+    ],
+    "cuaderno": [
+        "quaderno"
+    ],
+    "pizarra": [
+        "lavagna"
+    ],
+    "hoja de papel": [
+        "foglio di carta"
+    ],
+    "arroz": [
+        "riso"
+    ],
+    "patata": [
+        "patata"
+    ],
+    "verdura": [
+        "verdura"
+    ],
+    "fruta": [
+        "frutta"
+    ],
+    "agua": [
+        "acqua"
+    ],
+    "pescado": [
+        "pesce"
+    ],
+    "café": [
+        "caffé"
+    ],
+    "jugo": [
+        "succo"
+    ],
+    "té": [
+        "té"
+    ],
+    "carne": [
+        "carne"
+    ],
+    "ensalada": [
+        "insalata"
+    ],
+    "manzana": [
+        "mela"
+    ],
+    "platano": [
+        "banana"
+    ],
+    "cervesa": [
+        "birra"
+    ],
+    "vino": [
+        "vino"
+    ],
+    "leche": [
+        "latte"
+    ],
+    "zumo": [
+        "succo"
+    ],
+    "salsa": [
+        "salsa"
+    ],
+    "naranja": [
+        "arancia"
+    ],
+    "limon": [
+        "limone"
+    ],
+    "sopa": [
+        "zuppa"
+    ],
+    "huevo": [
+        "uovo"
+    ],
+    "mantequilla": [
+        "burro"
+    ],
+    "tomate": [
+        "pomodoro"
+    ],
+    "hola": [
+        "ciao"
+    ],
+    "chao": [
+        "ciao"
+    ],
+    "mucho gusto": [
+        "piacere"
+    ],
+    "beunos dias": [
+        "buongiorno"
+    ],
+    "qué tal": [
+        "come va"
+    ],
+    "hasta luego": [
+        "a dopo"
+    ],
+    "bienvenido": [
+        "benvenuto"
+    ],
+    "buenas noche": [
+        "buonanotte"
+    ],
+    "me gusta": [
+        "mi piace"
+    ],
+    "me gustan": [
+        "mi piacciono"
+    ],
+    "buenas tardes": [
+        "buon pomeriggio"
+    ],
+    "encantado": [
+        "piacere"
+    ],
+    "en realidad": [
+        "in realtà"
+    ],
+    "solamente": [
+        "solamente"
+    ],
+    "verdad": [
+        "vero"
+    ],
+    "tambien": [
+        "anche"
+    ],
+    "cual": [
+        "quale"
+    ],
+    "como": [
+        "come"
+    ],
+    "bien": [
+        "bene"
+    ],
+    "luego": [
+        "dopo"
+    ],
+    "aqui": [
+        "qui"
+    ],
+    "donde": [
+        "dove"
+    ],
+    "pues": [
+        "allora"
+    ],
+    "està": [
+        "è"
+    ],
+    "hacer": [
+        "fare"
+    ],
+    "tener": [
+        "avere"
+    ],
+    "comer": [
+        "mangiare"
+    ],
+    "laboratorio": [
+        "laboratorio"
+    ],
+    "restaurante": [
+        "ristorante"
+    ],
+    "universidad": [
+        "università"
+    ],
+    "gimnasio": [
+        "palestra"
+    ],
+    "hospital": [
+        "ospedale"
+    ],
+    "taller": [
+        "laboratorio di moda"
+    ],
+    "empresa": [
+        "azienda"
+    ],
+    "escuela": [
+        "scuola"
+    ],
+    "despacho": [
+        "ufficio"
+    ],
+    "agencia": [
+        "agenzia"
+    ],
+    "tienda": [
+        "negozio"
+    ],
+    "supermercado": [
+        "supermercato"
+    ],
+    "disenadora de moda": [
+        "fashion designer"
+    ],
+    "estudiante de": [
+        "studente di"
+    ],
+    "profesor de": [
+        "professore di"
+    ],
+    "periodista": [
+        "giornalista"
+    ],
+    "camarera": [
+        "cameriera"
+    ],
+    "cientifico": [
+        "scienziato"
+    ],
+    "cocinero": [
+        "cuoco"
+    ],
+    "traductor": [
+        "traduttore"
+    ],
+    "enfermero": [
+        "infermiere"
+    ],
+    "secretario": [
+        "segretario"
+    ],
+    "deportista": [
+        "atleta"
+    ],
+    "comercial": [
+        "commercialista"
+    ],
+    "companero de cuarto": [
+        "coinquilino"
+    ],
+    "hermano": [
+        "fratello"
+    ],
+    "hermana": [
+        "sorella"
+    ],
+    "hijo": [
+        "figlio"
+    ],
+    "hija": [
+        "figlia"
+    ],
+    "companero de trabajo": [
+        "collega di lavoro"
+    ],
+    "tio": [
+        "zio"
+    ],
+    "tia": [
+        "zia"
+    ],
+    "amigo": [
+        "amico"
+    ],
+    "amiga": [
+        "amica"
+    ],
+    "esposo": [
+        "sposo"
+    ],
+    "esposa": [
+        "sposa"
+    ],
+    "nieta": [
+        "nipote"
+    ],
+    "abuelo": [
+        "nonno"
+    ],
+    "abuela": [
+        "nonna"
+    ],
+    "familia": [
+        "famiglia"
+    ],
+    "numero": [
+        "numero"
+    ],
+    "telefono": [
+        "telefono"
+    ],
+    "carro": [
+        "macchina"
+    ],
+    "datos personales": [
+        "dati personali"
+    ],
+    "nombre": [
+        "nome"
+    ],
+    "apellido": [
+        "cognome"
+    ],
+    "edad": [
+        "età"
+    ],
+    "nacionalidad": [
+        "nazionalità"
+    ],
+    "correo electronico": [
+        "email"
+    ],
+    "cita": [
+        "appuntamento"
+    ],
+    "mascotas": [
+        "animali domestici"
+    ],
+    "dinero": [
+        "soldi",
+        "denaro"
+    ],
+    "cargador": [
+        "caricatore"
+    ],
+    "maleta": [
+        "valigia"
+    ],
+    "pasaporte": [
+        "passaporto"
+    ],
+    "compleanos": [
+        "compleanno"
+    ],
+    "mi": [
+        "mio"
+    ],
+    "mis": [
+        "miei"
+    ],
+    "tu": [
+        "tuo"
+    ],
+    "tus": [
+        "tuoi"
+    ],
+    "once": [
+        "undici"
+    ],
+    "doce": [
+        "dodici"
+    ],
+    "trece": [
+        "tredici"
+    ],
+    "cotorce": [
+        "quattordici"
+    ],
+    "quince": [
+        "quindici"
+    ],
+    "dieciseis": [
+        "sedici"
+    ],
+    "diecisiete": [
+        "diciassette"
+    ],
+    "dieciocho": [
+        "diciotto"
+    ],
+    "diecinueve": [
+        "diciannove"
+    ],
+    "viente": [
+        "venti"
+    ],
+    "vientiuno": [
+        "ventuno"
+    ],
+    "vientidos": [
+        "ventidue"
+    ],
+    "vientitres": [
+        "ventitre"
+    ],
+    "vienticuatro": [
+        "ventiquattro"
+    ],
+    "vienticinco": [
+        "venticinque"
+    ],
+    "vientiseis": [
+        "ventisei"
+    ],
+    "vientisiete": [
+        "ventisette"
+    ],
+    "vientiocho": [
+        "ventotto"
+    ],
+    "ventinueve": [
+        "ventinove"
+    ],
+    "treinta": [
+        "trenta"
+    ],
+    "cuarenta": [
+        "quaranta"
+    ],
+    "cincuenta": [
+        "cinquanta"
+    ],
+    "sesenta": [
+        "sessanta"
+    ],
+    "setenta": [
+        "settanta"
+    ],
+    "ochenta": [
+        "ottanta"
+    ],
+    "noventa": [
+        "novanta"
+    ],
+    "cansado": [
+        "stanco"
+    ],
+    "asqueroso": [
+        "schifoso"
+    ],
+    "delicioso": [
+        "delizioso"
+    ],
+    "genial": [
+        "geniale"
+    ],
+    "timido": [
+        "timido"
+    ],
+    "simpatico": [
+        "simpatico"
+    ],
+    "gracioso": [
+        "divertente"
+    ],
+    "serio": [
+        "serio"
+    ],
+    "nuevo": [
+        "nuovo"
+    ],
+    "tranquila": [
+        "tranquilla"
+    ],
+    "barata": [
+        "economica"
+    ],
+    "cara": [
+        "costosa"
+    ],
+    "partito": [
+        "partita"
+    ],
+    "deportes": [
+        "sport"
+    ],
+    "futbol": [
+        "calcio"
+    ],
+    "gato": [
+        "gatto"
+    ],
+    "vestido": [
+        "vestito"
+    ],
+    "sueter": [
+        "maglione"
+    ],
+    "cartera": [
+        "portafoglio"
+    ],
+    "reloj": [
+        "orologio"
+    ],
+    "gorra": [
+        "berretto"
+    ],
+    "hotel": [
+        "hotel"
+    ],
+    "libreria": [
+        "libreria"
+    ],
+    "pueblo": [
+        "paese"
+    ],
+    "panaderia": [
+        "panetteria"
+    ],
+    "cafeteria": [
+        "bar"
+    ],
+    "banco": [
+        "banca"
+    ],
+    "teatro": [
+        "teatro"
+    ],
+    "museo": [
+        "museo"
+    ],
+    "estacion": [
+        "stazione"
+    ],
+    "parque": [
+        "parco"
+    ],
+    "barrio": [
+        "quartiere"
+    ],
+    "ciudad": [
+        "città"
+    ],
+    "centro comercial": [
+        "centro commerciale"
+    ],
+    "estacionamiento": [
+        "parcheggio"
+    ],
+    "hay": [
+        "c'é"
+    ],
+    "por aqui": [
+        "qui vicino"
+    ],
+    "cerca": [
+        "vicino"
+    ],
+    "Oye": [
+        "Senti"
+    ],
+    "Mira": [
+        "Guarda"
+    ],
+    "es": [
+        "è"
+    ],
+    "boleto": [
+        "biglietto"
+    ],
+    "profesion": [
+        "lavoro"
+    ],
+    "Alemania": [
+        "Germania"
+    ],
+    "comida": [
+        "cibo"
+    ],
+    "redes sociales": [
+        "social network"
+    ],
+    "naturaleza": [
+        "natura"
+    ],
+    "juez": [
+        "giudice"
+    ],
+    "historia": [
+        "storia"
+    ],
+    "arte": [
+        "arte"
+    ],
+    "musica": [
+        "musica"
+    ],
+    "literatura": [
+        "letteratura"
+    ],
+    "cine": [
+        "cinema"
+    ],
+    "chaqueta": [
+        "giacca"
+    ],
+    "mujer": [
+        "moglie",
+        "donna"
+    ],
+    "Adios": [
+        "Arrivederci",
+        "Addio"
+    ],
+    "De nada": [
+        "Di niente",
+        "prego"
+    ],
+    "Gracias": [
+        "Grazie"
+    ],
+    "perdon": [
+        "mi scusi",
+        "perdonami"
+    ],
+    "por favor": [
+        "per favore"
+    ],
+    "lo siento": [
+        "mi dispiace"
+    ],
+    "Buonas suerte": [
+        "Buona fortuna"
+    ],
+    "felicidades": [
+        "congratulazioni"
+    ],
+    "hasta pronto": [
+        "a presto"
+    ],
+    "como andas": [
+        "come va"
+    ],
+    "qué me cuentas": [
+        "cosa c'é di nuovo",
+        "cosa mi racconti"
+    ],
+    "como te va": [
+        "come va",
+        "come stai"
+    ],
+    "que pasa": [
+        "come va",
+        "come stai"
+    ],
+    "como estas": [
+        "come stai"
+    ],
+    "estimado...": [
+        "caro..."
+    ],
+    "querido": [
+        "caro..."
+    ],
+    "cuidate": [
+        "buona fortuna"
+    ],
+    "hasta manana": [
+        "a domani"
+    ],
+    "nos vemos": [
+        "ci vediamo"
+    ],
+    "con permiso": [
+        "con permesso",
+        "scusi"
+    ],
+    "feliz ano nuevo": [
+        "buon anno"
+    ],
+    "feliz cuompleanos": [
+        "buon compleanno"
+    ],
+    "feliz Navidad": [
+        "buon Natale"
+    ],
+    "feliz Nochebuena": [
+        "buon Capodanno"
+    ],
+    "animal": [
+        "animale"
+    ],
+    "mascota": [
+        "animale domestico"
+    ],
+    "animal salvaje": [
+        "animale selvatico",
+        "bestia"
+    ],
+    "pelo": [
+        "pelo",
+        "pelliccia"
+    ],
+    "ballena azul": [
+        "balenottera azzurra"
+    ],
+    "conejillo de Indias": [
+        "percellino d'India"
+    ],
+    "pez": [
+        "pesc"
+    ],
+    "raton": [
+        "ratto"
+    ],
+    "jirafa": [
+        "giraffa"
+    ],
+    "hipopotamo": [
+        "ippopotamo"
+    ],
+    "perezoso": [
+        "bradipo"
+    ],
+    "pavo": [
+        "tacchino"
+    ],
+    "c": [
+        ""
+    ],
+    "ciervo": [
+        "cervo"
+    ],
+    "zorro": [
+        "volpe"
+    ],
+    "mapache": [
+        "procione"
+    ],
+    "termita": [
+        "termite"
+    ],
+    "avispa": [
+        "vespa"
+    ],
+    "escarabajo": [
+        "scarabeo"
+    ],
+    "avispon": [
+        "calabrone"
+    ],
+    "conejo": [
+        "coniglio"
+    ],
+    "rata": [
+        "topo"
+    ],
+    "gallina": [
+        "gallina",
+        "pollo"
+    ],
+    "vaca": [
+        "vacca",
+        "mucca"
+    ],
+    "cerdo": [
+        "maiale"
+    ],
+    "oveja": [
+        "pecora"
+    ],
+    "cabra": [
+        "capra"
+    ],
+    "burro": [
+        "asino"
+    ],
+    "caballo": [
+        "cavallo"
+    ],
+    "elefante": [
+        "elefante"
+    ],
+    "camello": [
+        "cammello"
+    ],
+    "mosquito": [
+        "zanzara"
+    ],
+    "arana": [
+        "ragno"
+    ],
+    "hormiga": [
+        "formica"
+    ],
+    "zorrillo": [
+        "puzzola"
+    ],
+    "buho": [
+        "gufo"
+    ],
+    "liebre": [
+        "lepre"
+    ],
+    "lejon": [
+        "tasso"
+    ],
+    "leon": [
+        "leone"
+    ],
+    "rinoceronte": [
+        "rinoceronte"
+    ],
+    "guepardo": [
+        "ghepardo"
+    ],
+    "hiena": [
+        "iena"
+    ],
+    "ave": [
+        ""
+    ],
+    "pato": [
+        "anatra"
+    ],
+    "ganso": [
+        "oca"
+    ],
+    "paloma": [
+        "piccione"
+    ],
+    "pinguino": [
+        "pinguino"
+    ],
+    "loro": [
+        "pappagallo"
+    ],
+    "lenchuza": [
+        "barbagianni"
+    ],
+    "aguila": [
+        "aquila"
+    ],
+    "delfin": [
+        "delfino"
+    ],
+    "pulpo": [
+        "polpo"
+    ],
+    "hamster": [
+        "criceto"
+    ],
+    "abeja": [
+        "ape"
+    ],
+    "mariposa": [
+        "farfalla"
+    ],
+    "polilla": [
+        "falena"
+    ],
+    "alce": [
+        "alce"
+    ],
+    "lince": [
+        "lince"
+    ],
+    "puercoespin": [
+        "porcospino",
+        "istrice"
+    ],
+    "jabali": [
+        "cinghiale"
+    ],
+    "gacela": [
+        "gazzella"
+    ],
+    "mono": [
+        "scimmia"
+    ],
+    "bufalo": [
+        "bufalo"
+    ],
+    "nu": [
+        "gnu"
+    ],
+    "medusa": [
+        "medusa"
+    ],
+    "estrella de mar": [
+        "stella di mare",
+        "stella marina"
+    ],
+    "tiburon": [
+        "squalo"
+    ],
+    "tortuga marina": [
+        "tartaruga marina",
+        "tartaruga di mare"
+    ],
+    "oso": [
+        "orso"
+    ],
+    "lobo": [
+        "lupo"
+    ],
+    "cocodrilo": [
+        "coccodrillo"
+    ],
+    "serpiente": [
+        "serpente"
+    ],
+    "canguro": [
+        "canguro"
+    ],
+    "rana": [
+        "rana"
+    ],
+    "ardilla": [
+        "scoiattolo"
+    ],
+    "cucaracha": [
+        "scarafaggio"
+    ],
+    "corzo": [
+        "capriolo"
+    ],
+    "mosca": [
+        "mosca"
+    ],
+    "vison": [
+        "visone"
+    ],
+    "saltamontes": [
+        "cavalletta"
+    ],
+    "mariquita": [
+        "coccinella"
+    ],
+    "e ": [
+        ""
+    ],
+    "escorpion": [
+        "scorpione"
+    ],
+    "chacal": [
+        "sciacallo"
+    ],
+    "mantis religiosa": [
+        "mantide religiosa"
+    ],
+    "pajaro carpintero": [
+        "picchio"
+    ],
+    "Lunes": [
+        "Lunedì"
+    ],
+    "Martes": [
+        "Martedì"
+    ],
+    "Miercoles": [
+        "Mercoledì"
+    ],
+    "Jueves": [
+        "Giocedì"
+    ],
+    "Viernes": [
+        "Venerdì"
+    ],
+    "Sabado": [
+        "Sabato"
+    ],
+    "Domingo": [
+        "Domenica"
+    ],
+    "calor": [
+        "caldo"
+    ],
+    "sol": [
+        "sole"
+    ],
+    "lluvia": [
+        "pioggia"
+    ],
+    "nieve": [
+        "neve"
+    ],
+    "viento": [
+        "vento"
+    ],
+    "nube": [
+        "nuvola"
+    ],
+    "brisa": [
+        "brezza"
+    ],
+    "tornado": [
+        "tornado"
+    ],
+    "niebla": [
+        "nebbia"
+    ],
+    "granizos": [
+        "grandine"
+    ],
+    "aguanieve": [
+        "nevischio"
+    ],
+    "hielo": [
+        "ghiaccio"
+    ],
+    "temperatura": [
+        "temperatura"
+    ],
+    "grado": [
+        "grado"
+    ],
+    "frio": [
+        "freddo"
+    ],
+    "inundacion": [
+        "inondazione"
+    ],
+    "fresco": [
+        "fresco"
+    ],
+    "tormenta": [
+        "tormenta"
+    ],
+    "charapon": [
+        "acquazzone"
+    ],
+    "treuno": [
+        "tuono"
+    ],
+    "rayo": [
+        "fulmine"
+    ],
+    "prevision": [
+        "previsioni",
+        "previsione"
+    ],
+    "huracan": [
+        "uragano"
+    ],
+    "ordenador": [
+        "computer"
+    ],
+    "portatil": [
+        "portatile",
+        "computer portatile"
+    ],
+    "pantalla": [
+        "schermo"
+    ],
+    "teclado": [
+        "tastiera"
+    ],
+    "tecla": [
+        "tasto"
+    ],
+    "impresora": [
+        "stampante"
+    ],
+    "disco duro": [
+        "hard disk",
+        "disco rigido"
+    ],
+    "memoria": [
+        "memoria"
+    ],
+    "pulsar": [
+        "cliccare"
+    ],
+    "descargar": [
+        "scaricare"
+    ],
+    "imprimir": [
+        "stampare"
+    ],
+    "guardar": [
+        "salvare"
+    ],
+    "instalar": [
+        "installare"
+    ],
+    "cortar": [
+        "tagliare"
+    ],
+    "copiar": [
+        "copiare"
+    ],
+    "pegar": [
+        "incollare"
+    ],
+    "internet": [
+        "internet"
+    ],
+    "modem": [
+        "modem"
+    ],
+    "browser": [
+        "browser"
+    ],
+    "navegador": [
+        "motore di ricerca",
+        "browser"
+    ],
+    "contrasena": [
+        "password"
+    ],
+    "buscador": [
+        "motore di ricerca"
+    ],
+    "pagina incial": [
+        "home page",
+        "pagina iniziale"
+    ],
+    "marcador": [
+        "preferito"
+    ],
+    "dominio": [
+        "dominio"
+    ],
+    "direccion": [
+        "indirizzo"
+    ],
+    "palabra clave": [
+        "parola chiave"
+    ],
+    "enlace": [
+        "collegamento"
+    ],
+    "arroba": [
+        "@",
+        "chiocciolina"
+    ],
+    "punto": [
+        ".",
+        "punto"
+    ],
+    "barra": [
+        "/",
+        "backslash"
+    ],
+    "dos puntos": [
+        ":",
+        "due punti"
+    ],
+    "ser": [
+        "essere"
+    ],
+    "estar": [
+        "essere"
+    ],
+    "haber": [
+        "avere"
+    ],
+    "abrir": [
+        "aprire"
+    ],
+    "actuar": [
+        "agire",
+        "attuare"
+    ],
+    "andar": [
+        "andare",
+        "camminare"
+    ],
+    "bailar": [
+        "ballare"
+    ],
+    "beber": [
+        "bere"
+    ],
+    "buscar": [
+        "cercare"
+    ],
+    "caer": [
+        "cadere"
+    ],
+    "cambiar": [
+        "cambiare"
+    ],
+    "caminar": [
+        "camminare"
+    ],
+    "cantar": [
+        "cantare"
+    ],
+    "cocer": [
+        "cuocere"
+    ],
+    "cocinar": [
+        "cucinare"
+    ],
+    "comprar": [
+        "comprare"
+    ],
+    "conducir": [
+        "guidare",
+        "condurre"
+    ],
+    "conocer": [
+        "conoscere"
+    ],
+    "costruir": [
+        "costruire"
+    ],
+    "creer": [
+        "credere"
+    ],
+    "dar": [
+        "dare"
+    ],
+    "deber": [
+        "dovere"
+    ],
+    "decider": [
+        "decidere"
+    ],
+    "decir": [
+        "dire"
+    ],
+    "defender": [
+        "difendere"
+    ],
+    "dejar": [
+        "lasciare"
+    ],
+    "descansar": [
+        "svegliarsi"
+    ],
+    "dirigir": [
+        "dirigere"
+    ],
+    "dormir": [
+        "dormire"
+    ],
+    "elegir": [
+        "scegliere",
+        "eleggere"
+    ],
+    "empezar": [
+        "iniziare"
+    ],
+    "entrar": [
+        "inviare"
+    ],
+    "encontrarse": [
+        "incontrarsi"
+    ],
+    "escuchar": [
+        "ascoltare"
+    ],
+    "escriber": [
+        "scrivere"
+    ],
+    "esperar": [
+        "sperare",
+        "aspettare"
+    ],
+    "estudiar": [
+        "studiare"
+    ],
+    "hablar": [
+        "parlare"
+    ],
+    "intentar": [
+        "provare"
+    ],
+    "ir": [
+        "andare"
+    ],
+    "jugar": [
+        "giocare"
+    ],
+    "leer": [
+        "leggere"
+    ],
+    "limpiar": [
+        "pulire"
+    ],
+    "llamarse": [
+        "chiamarsi"
+    ],
+    "llegar": [
+        "partire"
+    ],
+    "llover": [
+        "piovere"
+    ],
+    "llevar": [
+        "condurre"
+    ],
+    "llorar": [
+        "piangere"
+    ],
+    "mirar": [
+        "guardare"
+    ],
+    "mover": [
+        "muoversi"
+    ],
+    "morir": [
+        "morire"
+    ],
+    "necesitar": [
+        "necessitare"
+    ],
+    "oir": [
+        "ascoltare"
+    ],
+    "oler": [
+        "sentire"
+    ],
+    "pagar": [
+        "pagare"
+    ],
+    "pedir": [
+        "chiedere"
+    ],
+    "pensar": [
+        "pensare"
+    ],
+    "presentar": [
+        "presentare"
+    ],
+    "poder": [
+        "potere"
+    ],
+    "producir": [
+        "produrre"
+    ],
+    "proibir": [
+        "proibire"
+    ],
+    "poner": [
+        "indossare"
+    ],
+    "quedar": [
+        "restare",
+        "ritrovarsi"
+    ],
+    "querer": [
+        "volere"
+    ],
+    "reir": [
+        "ridere"
+    ],
+    "reunir": [
+        "riunire"
+    ],
+    "saber": [
+        "sapere"
+    ],
+    "salir": [
+        "uscire"
+    ],
+    "satisfacer": [
+        "soddisfare"
+    ],
+    "seguir": [
+        "seguire"
+    ],
+    "sentir": [
+        "sentire"
+    ],
+    "tardar": [
+        "tardare",
+        "ritardare"
+    ],
+    "tocar": [
+        "suonare"
+    ],
+    "trabajar": [
+        "lavorare"
+    ],
+    "traer": [
+        "portare"
+    ],
+    "usar": [
+        "usare"
+    ],
+    "utilisar": [
+        "utilizzare",
+        "usare"
+    ],
+    "valer": [
+        "valere"
+    ],
+    "venir": [
+        "venire"
+    ],
+    "ver": [
+        "vedere"
+    ],
+    "viajar": [
+        "viaggiare"
+    ],
+    "vivir": [
+        "vivere"
+    ],
+    "volver": [
+        "ritornare"
+    ]
+}

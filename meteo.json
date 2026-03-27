@@ -1,0 +1,93 @@
+{
+    "Lunes": [
+        "Lunedì"
+    ],
+    "Martes": [
+        "Martedì"
+    ],
+    "Miercoles": [
+        "Mercoledì"
+    ],
+    "Viernes": [
+        "Venerdì"
+    ],
+    "Sabado": [
+        "Sabato"
+    ],
+    "Domingo": [
+        "Domenica"
+    ],
+    "calor": [
+        "caldo"
+    ],
+    "sol": [
+        "sole"
+    ],
+    "lluvia": [
+        "pioggia"
+    ],
+    "nieve": [
+        "neve"
+    ],
+    "viento": [
+        "vento"
+    ],
+    "nube": [
+        "nuvola"
+    ],
+    "brisa": [
+        "brezza"
+    ],
+    "tornado": [
+        "tornado"
+    ],
+    "niebla": [
+        "nebbia"
+    ],
+    "granizos": [
+        "grandine"
+    ],
+    "aguanieve": [
+        "nevischio"
+    ],
+    "hielo": [
+        "ghiaccio"
+    ],
+    "temperatura": [
+        "temperatura"
+    ],
+    "grado": [
+        "grado"
+    ],
+    "frio": [
+        "freddo"
+    ],
+    "inundacion": [
+        "inondazione"
+    ],
+    "fresco": [
+        "fresco"
+    ],
+    "tormenta": [
+        "tormenta"
+    ],
+    "charapon": [
+        "acquazzone"
+    ],
+    "treuno": [
+        "tuono"
+    ],
+    "rayo": [
+        "fulmine"
+    ],
+    "prevision": [
+        "previsioni",
+        "previsione"
+    ],
+    "huracan": [
+        "uragano"
+    ],
+    "Jueves": [
+        "Giovedì"
+    ]
+}

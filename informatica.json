@@ -1,0 +1,109 @@
+{
+    "ordenador": [
+        "computer"
+    ],
+    "portatil": [
+        "portatile",
+        "computer portatile"
+    ],
+    "pantalla": [
+        "schermo"
+    ],
+    "raton": [
+        "mouse"
+    ],
+    "teclado": [
+        "tastiera"
+    ],
+    "tecla": [
+        "tasto"
+    ],
+    "impresora": [
+        "stampante"
+    ],
+    "disco duro": [
+        "hard disk",
+        "disco rigido"
+    ],
+    "memoria": [
+        "memoria"
+    ],
+    "pulsar": [
+        "cliccare"
+    ],
+    "descargar": [
+        "scaricare"
+    ],
+    "imprimir": [
+        "stampare"
+    ],
+    "guardar": [
+        "salvare"
+    ],
+    "instalar": [
+        "installare"
+    ],
+    "cortar": [
+        "tagliare"
+    ],
+    "copiar": [
+        "copiare"
+    ],
+    "pegar": [
+        "incollare"
+    ],
+    "internet": [
+        "internet"
+    ],
+    "modem": [
+        "modem"
+    ],
+    "navegador": [
+        "motore di ricerca",
+        "browser"
+    ],
+    "correo electronico": [
+        "email"
+    ],
+    "contrasena": [
+        "password"
+    ],
+    "buscador": [
+        "motore di ricerca"
+    ],
+    "pagina incial": [
+        "home page",
+        "pagina iniziale"
+    ],
+    "marcador": [
+        "preferito"
+    ],
+    "dominio": [
+        "dominio"
+    ],
+    "direccion": [
+        "indirizzo"
+    ],
+    "palabra clave": [
+        "parola chiave"
+    ],
+    "enlace": [
+        "collegamento"
+    ],
+    "arroba": [
+        "@",
+        "chiocciolina"
+    ],
+    "punto": [
+        ".",
+        "punto"
+    ],
+    "barra": [
+        "/",
+        "backslash"
+    ],
+    "dos puntos": [
+        ":",
+        "due punti"
+    ]
+}

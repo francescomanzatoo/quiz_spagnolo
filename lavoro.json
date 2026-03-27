@@ -1,0 +1,249 @@
+{
+    "recepcionista": [
+        "receptionist",
+        "segretaria"
+    ],
+    "secretario": [
+        "segretario"
+    ],
+    "director": [
+        "direttore",
+        "capo"
+    ],
+    "abogado": [
+        "avvocato"
+    ],
+    "ingeniero": [
+        "ingegnere"
+    ],
+    "contable": [
+        "contabile"
+    ],
+    "psicologo": [
+        "psicologo"
+    ],
+    "arquitecto": [
+        "architetto"
+    ],
+    "politico": [
+        "politico"
+    ],
+    "estudiante": [
+        "studente"
+    ],
+    "profesor": [
+        "professore",
+        "docente",
+        "insegnante"
+    ],
+    "camarero": [
+        "cameriere"
+    ],
+    "cocinero": [
+        "cuoco"
+    ],
+    "medico": [
+        "medico",
+        "dottore"
+    ],
+    "enfermero": [
+        "infermiere"
+    ],
+    "cirujano": [
+        "chirurgo"
+    ],
+    "mecanico": [
+        "meccanico"
+    ],
+    "electricista": [
+        "elettricista"
+    ],
+    "fontanero": [
+        "idraulico"
+    ],
+    "camionero": [
+        "camionista"
+    ],
+    "bombero": [
+        "pompiere",
+        "vigile del fuoco"
+    ],
+    "cartero": [
+        "postino"
+    ],
+    "taxista": [
+        "tassista",
+        "taxista"
+    ],
+    "cajero": [
+        "cassiere",
+        "addetto alle vendite"
+    ],
+    "dependiente": [
+        "commesso",
+        "dipendente",
+        "impiegato"
+    ],
+    "escritor": [
+        "scrittore",
+        "autore"
+    ],
+    "actor": [
+        "attore"
+    ],
+    "artista": [
+        "artista"
+    ],
+    "pintor": [
+        "pittore"
+    ],
+    "escultor": [
+        "scultore"
+    ],
+    "musico": [
+        "musicista"
+    ],
+    "cantante": [
+        "cantante"
+    ],
+    "peluquera": [
+        "parrucchiera",
+        "parrucchiere"
+    ],
+    "aparejador": [
+        "geometra"
+    ],
+    "epleado": [
+        "dipendente",
+        "impiegato"
+    ],
+    "administrativo": [
+        "impiegato",
+        "dipendente"
+    ],
+    "jardiniero": [
+        "giardiniere"
+    ],
+    "agete immobiliare": [
+        "agente immobiliare"
+    ],
+    "comadrona": [
+        "ostetrica"
+    ],
+    "dentiste": [
+        "dentista"
+    ],
+    "guia turistia": [
+        "guida turistica"
+    ],
+    "programador": [
+        "programmatore"
+    ],
+    "cientifico": [
+        "scienziato"
+    ],
+    "pastelero": [
+        "pasticciere"
+    ],
+    "carpintero": [
+        "falegname"
+    ],
+    "banquero": [
+        "banchiere"
+    ],
+    "guitarrista": [
+        "chitarrista"
+    ],
+    "heladero": [
+        "gelataio"
+    ],
+    "futobolista": [
+        "calciatore"
+    ],
+    "deportista": [
+        "atleta",
+        "sportivo"
+    ],
+    "maestra": [
+        "maestra",
+        "insegnante"
+    ],
+    "panadero": [
+        "panettiere",
+        "fornaio"
+    ],
+    "pescadero": [
+        "pescivendolo"
+    ],
+    "pescador": [
+        "pescatore"
+    ],
+    "frutero": [
+        "fruttivendolo"
+    ],
+    "pilota": [
+        "pilota"
+    ],
+    "azafata": [
+        "hostess",
+        "assistente di volo"
+    ],
+    "asistente de vuelo": [
+        "assistente di volo",
+        "hostess"
+    ],
+    "estar jubilado": [
+        "essere in pensione"
+    ],
+    "estar en paro": [
+        "essere disoccupato"
+    ],
+    "cerrajero": [
+        "fabbro",
+        "chiavaro"
+    ],
+    "conductor": [
+        "conduttore",
+        "presentatore"
+    ],
+    "chofer": [
+        "autista privato",
+        "chofer"
+    ],
+    "modelo": [
+        "modello"
+    ],
+    "cura": [
+        "prete",
+        "parroco"
+    ],
+    "parroco": [
+        "parroco",
+        "prete"
+    ],
+    "monja": [
+        "suora"
+    ],
+    "ama de casa": [
+        "casalinga"
+    ],
+    "entrenador": [
+        "allenatore"
+    ],
+    "mujer de la limpieza": [
+        "donna delle pulizie"
+    ],
+    "asesor fiscal": [
+        "commercialista",
+        "assessore fiscale"
+    ],
+    "empresario": [
+        "imprenditore"
+    ],
+    "juel": [
+        "giudice"
+    ],
+    "periodista": [
+        "giornalista"
+    ]
+}

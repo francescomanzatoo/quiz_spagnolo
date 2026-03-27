@@ -1,0 +1,268 @@
+{
+    "ser": [
+        "essere"
+    ],
+    "estar": [
+        "essere"
+    ],
+    "haber": [
+        "avere"
+    ],
+    "tener": [
+        "avere"
+    ],
+    "abrir": [
+        "aprire"
+    ],
+    "actuar": [
+        "agire",
+        "attuare"
+    ],
+    "andar": [
+        "andare",
+        "camminare"
+    ],
+    "bailar": [
+        "ballare"
+    ],
+    "beber": [
+        "bere"
+    ],
+    "buscar": [
+        "cercare"
+    ],
+    "caer": [
+        "cadere"
+    ],
+    "cambiar": [
+        "cambiare"
+    ],
+    "caminar": [
+        "camminare"
+    ],
+    "cantar": [
+        "cantare"
+    ],
+    "cocer": [
+        "cuocere"
+    ],
+    "cocinar": [
+        "cucinare"
+    ],
+    "comer": [
+        "mangiare"
+    ],
+    "comprar": [
+        "comprare"
+    ],
+    "conducir": [
+        "guidare",
+        "condurre"
+    ],
+    "conocer": [
+        "conoscere"
+    ],
+    "costruir": [
+        "costruire"
+    ],
+    "creer": [
+        "credere"
+    ],
+    "dar": [
+        "dare"
+    ],
+    "deber": [
+        "dovere"
+    ],
+    "decider": [
+        "decidere"
+    ],
+    "decir": [
+        "dire"
+    ],
+    "defender": [
+        "difendere"
+    ],
+    "dejar": [
+        "lasciare"
+    ],
+    "descansar": [
+        "svegliarsi"
+    ],
+    "dirigir": [
+        "dirigere"
+    ],
+    "dormir": [
+        "dormire"
+    ],
+    "elegir": [
+        "scegliere",
+        "eleggere"
+    ],
+    "empezar": [
+        "iniziare"
+    ],
+    "entrar": [
+        "inviare"
+    ],
+    "encontrarse": [
+        "incontrarsi"
+    ],
+    "escuchar": [
+        "ascoltare"
+    ],
+    "escriber": [
+        "scrivere"
+    ],
+    "esperar": [
+        "sperare",
+        "aspettare"
+    ],
+    "estudiar": [
+        "studiare"
+    ],
+    "hablar": [
+        "parlare"
+    ],
+    "hacer": [
+        "fare"
+    ],
+    "intentar": [
+        "provare"
+    ],
+    "ir": [
+        "andare"
+    ],
+    "jugar": [
+        "giocare"
+    ],
+    "leer": [
+        "leggere"
+    ],
+    "limpiar": [
+        "pulire"
+    ],
+    "llamarse": [
+        "chiamarsi"
+    ],
+    "llegar": [
+        "partire"
+    ],
+    "llover": [
+        "piovere"
+    ],
+    "llevar": [
+        "condurre"
+    ],
+    "llorar": [
+        "piangere"
+    ],
+    "mirar": [
+        "guardare"
+    ],
+    "mover": [
+        "muoversi"
+    ],
+    "morir": [
+        "morire"
+    ],
+    "necesitar": [
+        "necessitare"
+    ],
+    "oir": [
+        "ascoltare"
+    ],
+    "oler": [
+        "sentire"
+    ],
+    "pagar": [
+        "pagare"
+    ],
+    "pedir": [
+        "chiedere"
+    ],
+    "pensar": [
+        "pensare"
+    ],
+    "presentar": [
+        "presentare"
+    ],
+    "poder": [
+        "potere"
+    ],
+    "producir": [
+        "produrre"
+    ],
+    "proibir": [
+        "proibire"
+    ],
+    "poner": [
+        "indossare"
+    ],
+    "quedar": [
+        "restare",
+        "ritrovarsi"
+    ],
+    "querer": [
+        "volere"
+    ],
+    "reir": [
+        "ridere"
+    ],
+    "reunir": [
+        "riunire"
+    ],
+    "saber": [
+        "sapere"
+    ],
+    "salir": [
+        "uscire"
+    ],
+    "satisfacer": [
+        "soddisfare"
+    ],
+    "seguir": [
+        "seguire"
+    ],
+    "sentir": [
+        "sentire"
+    ],
+    "tardar": [
+        "tardare",
+        "ritardare"
+    ],
+    "tocar": [
+        "suonare"
+    ],
+    "trabajar": [
+        "lavorare"
+    ],
+    "traer": [
+        "portare"
+    ],
+    "usar": [
+        "usare"
+    ],
+    "utilisar": [
+        "utilizzare",
+        "usare"
+    ],
+    "valer": [
+        "valere"
+    ],
+    "venir": [
+        "venire"
+    ],
+    "ver": [
+        "vedere"
+    ],
+    "viajar": [
+        "viaggiare"
+    ],
+    "vivir": [
+        "vivere"
+    ],
+    "volver": [
+        "ritornare"
+    ]
+}
