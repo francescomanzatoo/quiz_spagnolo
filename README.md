@@ -50,3 +50,10 @@ Answer: gatto
 Correct!
 
 Quiz completed! Score: 2/2
+
+#Roadmap
+
+- Synonym hints for wrong answers
+- Spaced repetition algorithm
+- Score history and progress tracking
+- Graphical interface (Tkinter or web-based
