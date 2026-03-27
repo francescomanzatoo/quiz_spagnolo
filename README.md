@@ -36,7 +36,7 @@ Read the instruction, then press the choosen command:
 6) Print all the words of the dictionary
 7) Exit
 
-> 3
+3
 
 Beginning of the quiz:
 
